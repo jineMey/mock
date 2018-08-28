@@ -1,0 +1,10 @@
+{
+  "/easy-mock": {
+    "target": "https://www.easy-mock.com/mock/5b7fa9454bbf961c71ce10a7/hjx-one",
+    "secure": false,
+    "changeOrigin": true,
+    "pathRewrite": {
+      "easy-mock": "/"
+    }
+  }
+}
